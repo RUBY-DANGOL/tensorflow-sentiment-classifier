@@ -36,5 +36,5 @@ jupyter notebook sentiment_prediction.ipynb
 
 ## 🔍 Example Sentences:
 ```sh
-test_text = ["I am feeling good", "The food tasted very bad", "Momo tastes great"]
+test_texts = ["I am feeling good", "The food tasted very bad", "Momo tastes great"]
 ```
